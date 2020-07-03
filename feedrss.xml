@@ -1,78 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[DMSNLS]]></title>
-		<description><![CDATA[DMSNLS]]></description>
-		<link>https://anchor.fm/dmsns</link>
+		<title><![CDATA[DIMENSIONLESS]]></title>
+		<description><![CDATA[DJ Koustav presents DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. Introducing a new Electronic Dance Music Era for the Electronic Generation.]]></description>
+		<link>https://www.facebook.com/DJKoustavOfficial</link>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg</url>
-			<title>DMSNLS</title>
-			<link>https://anchor.fm/dmsns</link>
+			<url>https://raw.githubusercontent.com/djkoustavdimensionless/dimensionless/master/dmsnlsImages/dimensionless3.jpg</url>
+			<title>DIMENSIONLESS</title>
+			<link>https://www.facebook.com/DJKoustavOfficial</link>
 		</image>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Wed, 01 Jul 2020 17:50:32 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/296b3f40/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Koustav Sinha Ray]]></author>
-		<copyright><![CDATA[Koustav Sinha Ray]]></copyright>
-		<language><![CDATA[lo]]></language>
+		<author><![CDATA[DJ Koustav]]></author>
+		<copyright><![CDATA[DJ Koustav]]></copyright>
+		<language><![CDATA[English]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Koustav Sinha Ray</itunes:author>
-		<itunes:summary>DMSNLS</itunes:summary>
+		<itunes:author>DJ Koustav</itunes:author>
+		<itunes:summary>DJ Koustav presents DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. Introducing a new Electronic Dance Music Era for the Electronic Generation.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
-			<itunes:name>Koustav Sinha Ray</itunes:name>
-			<itunes:email></itunes:email>
+			<itunes:name>DJ Koustav</itunes:name>
+			<itunes:email>djkoustavofficial@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Business">
-			<itunes:category text="Non-Profit"/>
+		<itunes:explicit>Yes</itunes:explicit>
+		<itunes:category text="Music">
 		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/djkoustavdimensionless/dimensionless/master/dmsnlsImages/dimensionless3.jpg"/>
 		<item>
-			<title><![CDATA[DMSNLS3]]></title>
-			<description><![CDATA[<p>DMSNLS3</p>
+			<title><![CDATA[New Year Party Mix 2020 - DIMENSIONLESS #003]]></title>
+			<description><![CDATA[Yo, what's up fam? It's DJ Koustav here and I wish you all a very Happy and Prosperous New Year with lots of hopes and new beginnings for you. Also, I wanna present you my NEW YEAR MIX 2020 (3rd episode of the DIMENSIONLESS DJ Podcast) as a powerful dose of Electronic Dance Music to kickstart your year with lots of positivity and energy. Tracklist: provided on DJ Koustav Official facebook page.
 ]]></description>
-			<link>https://anchor.fm/dmsns/episodes/DMSNLS3-eg5ot4</link>
+			<link>https://www.facebook.com/DJKoustavOfficial/posts/939912393073048</link>
 			<guid isPermaLink="false">6582baa1-2518-4ecc-bc87-c1d3c75f9bf0</guid>
-			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
-			<pubDate>Wed, 01 Jul 2020 10:24:01 GMT</pubDate>
+			<dc:creator><![CDATA[DJ Koustav]]></dc:creator>
+			<pubDate>Thu, 02 Jan 2020 10:24:01 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15966564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-1%2F86746968-44100-2-b6e69583b78c5.mp3" length="141348641" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;DMSNLS3&lt;/p&gt;
+			<itunes:summary>Yo, what's up fam? It's DJ Koustav here and I wish you all a very Happy and Prosperous New Year with lots of hopes and new beginnings for you. Also, I wanna present you my NEW YEAR MIX 2020 (3rd episode of the DIMENSIONLESS DJ Podcast) as a powerful dose of Electronic Dance Music to kickstart your year with lots of positivity and energy. Tracklist: provided on DJ Koustav Official facebook page.
 </itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
+			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:duration>3533</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/djkoustavdimensionless/dimensionless/master/dmsnlsImages/dimensionless3.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[DMSNLS002]]></title>
-			<description><![CDATA[<p>DMSNLS002</p>
+			<title><![CDATA[Tomorrowland 2019 Warm up Mix - DIMENSIONLESS #002]]></title>
+			<description><![CDATA[This is a special Warm-up mix for Tomorrowland 2019 as well as the 2nd episode of the DIMENSIONLESS DJ Podcast. Hope you all will love the vibe. With love, DJ Koustav.
 ]]></description>
-			<link>https://anchor.fm/dmsns/episodes/DMSNLS002-eg4tcs</link>
+			<link>https://youtu.be/1Buc1GlP5Wo</link>
 			<guid isPermaLink="false">5e1e5b28-bf64-4085-aedd-1c18acf7ee85</guid>
-			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
-			<pubDate>Tue, 30 Jun 2020 18:27:14 GMT</pubDate>
+			<dc:creator><![CDATA[DJ Koustav]]></dc:creator>
+			<pubDate>Sun, 29 May 2019 18:27:14 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15938396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-30%2F86581767-44100-2-34d9fc3abf56d.mp3" length="60929148" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;DMSNLS002&lt;/p&gt;
+			<itunes:summary>This is a special Warm-up mix for Tomorrowland 2019 as well as the 2nd episode of the DIMENSIONLESS DJ Podcast. Hope you all will love the vibe. With love, DJ Koustav.
 </itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
+			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:duration>2605</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/djkoustavdimensionless/dimensionless/master/dmsnlsImages/dimensionless2.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[DMSNLS001]]></title>
-			<description><![CDATA[<p>DMSNLS001</p>
+			<title><![CDATA[EDM-BOLLYWOOD Non-Stop Dance Mix - DIMENSIONLESS #001]]></title>
+			<description><![CDATA[Introducing DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. I am DJ Koustav (DJ & Producer, and a student) and this is my first podcast session. Though I wanted to include many more tracks from the epic producers, but, I could not manage time for a longer podcast session. Actually, DJing and Producing is my passion, and due to my studies, I cannot lend much time to these. However, I do always persue my passion and come up with something new everytime. So, stay tuned with me for my upcoming shows and releases. Enter the new Electronic Music Era and discover your World of possibilities in the Kingdom of DJ Koustav. Tracklist: #1 DJ Koustav - DIMENSIONLESS Intro #2 Bassjackers & MAKJ - Derp (Klo & Brille Remix) #3 Sexy Baliye - DJ Shadow Dubai Remix #4 Sweet Harmony vs No Money - Play Life Mashup (DJ NYK) #5 Badri Ki Dulhania (DJ Tejas Remix) #6 W&W x Vini Vici - Chakra (Original Mix) #7 Bolo Har Har Har (Shivaay) (Psy Trance Mashup) - DJ NYK #8 Ed Sheeran - Shape of You (Special Edit) #9 Laila Mein Laila (DJ Sunny Remix) #10 Cheez Badi (Remix) #11 DJ Snake - Let Me Love You (ft. Justin Bieber)(Original Mix) #12 Dimitri Vegas & Like Mike vs. VINAI - Louder (Original Mix) #13 David Guetta Dangerous (Banging Remix) #14 DJ Koustav - Infinity Hunt (Original Mix) #15 Kala Chashma (Baar Baar Dekho) (Remix) - DJ NYK #16 DJ Chetas - Tamma Tamma vs Bomb A Drop #17 Galti Se Mistake (Tapori Mix) - DJ Tejas #18 Trippy Trippy (Remix) - DJ Shadow Dubai #19 David Guetta - S.T.O.P (feat. Ryan Tedder)
 ]]></description>
-			<link>https://anchor.fm/dmsns/episodes/DMSNLS001-eg4q3h</link>
+			<link>https://youtu.be/KDTtGZdEXFE</link>
 			<guid isPermaLink="false">808685b6-6bd9-4867-88ba-992041283b7e</guid>
-			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
-			<pubDate>Tue, 30 Jun 2020 16:57:45 GMT</pubDate>
+			<dc:creator><![CDATA[DJ Koustav]]></dc:creator>
+			<pubDate>Sat, 30 Sat 2017 16:57:45 GMT</pubDate>
 			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15935025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-30%2F86563805-44100-2-bf6f9901f3fe2.mp3" length="141113012" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;DMSNLS001&lt;/p&gt;
+			<itunes:summary>Introducing DIMENSIONLESS, the DJ Podcast featuring the dopest of EDM and the finest of Bollywood Dance Music. I am DJ Koustav (DJ & Producer, and a student) and this is my first podcast session. Though I wanted to include many more tracks from the epic producers, but, I could not manage time for a longer podcast session. Actually, DJing and Producing is my passion, and due to my studies, I cannot lend much time to these. However, I do always persue my passion and come up with something new everytime. So, stay tuned with me for my upcoming shows and releases. Enter the new Electronic Music Era and discover your World of possibilities in the Kingdom of DJ Koustav. Tracklist: #1 DJ Koustav - DIMENSIONLESS Intro #2 Bassjackers & MAKJ - Derp (Klo & Brille Remix) #3 Sexy Baliye - DJ Shadow Dubai Remix #4 Sweet Harmony vs No Money - Play Life Mashup (DJ NYK) #5 Badri Ki Dulhania (DJ Tejas Remix) #6 W&W x Vini Vici - Chakra (Original Mix) #7 Bolo Har Har Har (Shivaay) (Psy Trance Mashup) - DJ NYK #8 Ed Sheeran - Shape of You (Special Edit) #9 Laila Mein Laila (DJ Sunny Remix) #10 Cheez Badi (Remix) #11 DJ Snake - Let Me Love You (ft. Justin Bieber)(Original Mix) #12 Dimitri Vegas & Like Mike vs. VINAI - Louder (Original Mix) #13 David Guetta Dangerous (Banging Remix) #14 DJ Koustav - Infinity Hunt (Original Mix) #15 Kala Chashma (Baar Baar Dekho) (Remix) - DJ NYK #16 DJ Chetas - Tamma Tamma vs Bomb A Drop #17 Galti Se Mistake (Tapori Mix) - DJ Tejas #18 Trippy Trippy (Remix) - DJ Shadow Dubai #19 David Guetta - S.T.O.P (feat. Ryan Tedder)
 </itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
+			<itunes:explicit>Yes</itunes:explicit>
 			<itunes:duration>3505</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/djkoustavdimensionless/dimensionless/master/dmsnlsImages/dimensionless1.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 	</channel>
