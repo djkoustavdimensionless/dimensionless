@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[DMSNLS]]></title>
+		<description><![CDATA[DMSNLS]]></description>
+		<link>https://anchor.fm/dmsns</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg</url>
+			<title>DMSNLS</title>
+			<link>https://anchor.fm/dmsns</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 01 Jul 2020 17:50:32 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/296b3f40/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Koustav Sinha Ray]]></author>
+		<copyright><![CDATA[Koustav Sinha Ray]]></copyright>
+		<language><![CDATA[lo]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Koustav Sinha Ray</itunes:author>
+		<itunes:summary>DMSNLS</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Koustav Sinha Ray</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business">
+			<itunes:category text="Non-Profit"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+		<item>
+			<title><![CDATA[DMSNLS3]]></title>
+			<description><![CDATA[<p>DMSNLS3</p>
+]]></description>
+			<link>https://anchor.fm/dmsns/episodes/DMSNLS3-eg5ot4</link>
+			<guid isPermaLink="false">6582baa1-2518-4ecc-bc87-c1d3c75f9bf0</guid>
+			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
+			<pubDate>Wed, 01 Jul 2020 10:24:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15966564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-1%2F86746968-44100-2-b6e69583b78c5.mp3" length="141348641" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;DMSNLS3&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3533</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[DMSNLS002]]></title>
+			<description><![CDATA[<p>DMSNLS002</p>
+]]></description>
+			<link>https://anchor.fm/dmsns/episodes/DMSNLS002-eg4tcs</link>
+			<guid isPermaLink="false">5e1e5b28-bf64-4085-aedd-1c18acf7ee85</guid>
+			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
+			<pubDate>Tue, 30 Jun 2020 18:27:14 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15938396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-30%2F86581767-44100-2-34d9fc3abf56d.mp3" length="60929148" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;DMSNLS002&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2605</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[DMSNLS001]]></title>
+			<description><![CDATA[<p>DMSNLS001</p>
+]]></description>
+			<link>https://anchor.fm/dmsns/episodes/DMSNLS001-eg4q3h</link>
+			<guid isPermaLink="false">808685b6-6bd9-4867-88ba-992041283b7e</guid>
+			<dc:creator><![CDATA[Koustav Sinha Ray]]></dc:creator>
+			<pubDate>Tue, 30 Jun 2020 16:57:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/296b3f40/podcast/play/15935025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-30%2F86563805-44100-2-bf6f9901f3fe2.mp3" length="141113012" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;DMSNLS001&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3505</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/6848944/6848944-1593536926313-78c5e694da1ed.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
